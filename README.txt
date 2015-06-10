@@ -1,0 +1,3 @@
+# safecode
+
+MathEasy Project
